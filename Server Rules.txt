@@ -32,7 +32,7 @@ INDEX
 Bannable Offenses
 The listed offenses below are punishable by Permanent Ban. Punishments are based on the severity of the offence.
 Any other Rule breaking or offenses will be dealt with on a case to case basis.
-
+ 
 Duping
 Hacking
 Combat Logging
@@ -102,7 +102,7 @@ Compensation will be dealt with on a case to case basis.
 
 #5 Federal Reserve
  
-To rob the Federal Reserve safe, a minimum of 7 cops MUST be online.
+To rob the Federal Reserve safe, a minimum of 7 cops and 1 LT MUST be online.
 To rob the Casino, a minimum of 12 cops MUST be online.
 
 1. The Federal Reserve is illegal for all civilians to enter and cops can arrest you on the spot if caught. 
@@ -406,6 +406,17 @@ Medics MUST NOT revive whilst there are 2 or more groups in a combat situation. 
 #26 Martial Law
 1. If you were not involved in the declaration of Martial law you must state that you are entering the town and your intentions
 2. Martial law is for Cops vs Civs not Civs vs Civs
+Rules for civilians during Martial Law;
+ 
+ 
+When Martial Law is  in-effect under extremely dangerous situations you are to do the following to ensure your own safety
+ 
+Civilians have until the first set of alarms finish to be indoors or out of the said town before they are open to the police.
+Civilians are to find the closest building enter into it close the doors and stay there until martial law has been called off.
+Civilians can re-log once inside a building within the 2 minute period before martial law is in-effect., you may also use flagpoles to leave the town.
+Civilians are not to return to the town until martial law is recalled.
+Anyone who is killed during martial law is not to return to the town until martial law is re-called. regardless of your NLR Timer. (breach this rule you will be dealt with by admins for breaking rules and punished appropriately)
+Civilians can go to the garage and pull vehicles or helicopters out to leave the area within the 2 minute period given
  
 Update Log:
 Updated 07/08/14 - ShadE - General rule update as per admin meeting
@@ -426,3 +437,4 @@ Updated 03/01/15 - Changed Medic Rules
 Updated 26/01/15 - Added #19 7. Igiload line - Gromp
 Updated 01/02/15 - Added #20 Helicopters 5. Kavala heli dock / Removed Hospital landing for civilians - Vitale
 Updated 08/02/15 - Changed coplimit for fed from 5 to 7, Added gold bar to illegal items - Gromp
+Updated 08/02/15 - Added civ rules to #26 martial law
