@@ -1,0 +1,428 @@
+These Rules have been edited to be used with the CTRL + F search function For ease of looking
+
+
+INDEX
+#1 Role-Play
+#2 Exploitations 
+#3 Communication Rules
+#4 Compensation
+#5 Federal Reserve
+#6 Negotiators
+#7 Illegal Items
+#8 Illegal Firearms
+#9 Illegal Vehicles
+#10 New Life Rule (NLR)
+#11 Outlaw Zones
+#12 Police Equipment
+#13 Police Interaction
+#14 Hostage Situations
+#15 Random Deathmatching (RDM)
+#16 Safe Areas
+#17 Server Restarts
+#18 Speed Limits
+#19 Vehicles
+#20 Helicopters
+#21 Vehicle Deathmatching (VDM)
+#22 Medics
+#23 Housing
+#24 Jail
+#25 Being restrained
+#26 General
+
+Bannable Offenses
+The listed offenses below are punishable by Permanent Ban. Punishments are based on the severity of the offence.
+Any other Rule breaking or offenses will be dealt with on a case to case basis.
+
+Duping
+Hacking
+Combat Logging
+Exploiting
+Meta-gaming (the act of using outside or previously gained knowledge within a gaming universe for personal gain or advantage)
+Racism
+Trolling
+Using anyone as a meat-shield
+Acronyms 
+KoS  = Kill on Sight
+NLR  = New Life Rule
+RDM = Random Deathmatching
+VDM = Vehicle Deathmatching
+RP    = Role-Play
+
+
+#1 Role-Play
+This is a Role-Play server. This means:
+1. You are expected to role-play as much as possible and go out of your way to make scenarios more interesting, creative and enjoyable for all parties involved.
+2. When it comes to using lethal force in ANY situation, be it; gang wars, uprisings, bank robberies, stick-ups etc. at the BARE MINIMUM you must:
+Clearly state your demands (eg drop weapon, leave area)
+Clearly state consequences for not complying with your demands (eg will shoot a hostage, will use lethal force)
+3. You must allow for a reasonable amount of time (5 seconds MINIMUM, allow extra time when necessary) for the other party to meet your demands.
+4. ALL players (civilians, rebels and police) must escalate situation using this method. Once the declaration has been understand and broken (eg. cops have moved into a position you demanded they leave) you may perform your stated consequence (eg. lethal force).
+5. Lethal force in circumstances other than RP instances may ONLY be used where no alternative is possible and not responding with lethal force would result in your death. This means lethal force may be used against someone ALREADY firing at you or posing an immediate threat to your life or another player's. You should report the incident to the Police or an Admin if required.
+ 
+ 
+#1.1 - Declaring *READ*
+1. When declaring on a town/against someone you must declare for everyone that is in your group i.e [The bTd clan is declaring on kavala for ...][The bTd Clan, Jimmy and Bob are declaring on Cop Bob for ...]
+2. You must have clan tags - eg. (...) [...] {...} |...| - to declare as a group. If you do not have clan tags then you have to name each person individually that you wish to declare upon someone. You can get each person to send a message with the declaration, or name each person in one message, but everyone must be named (unless you have clan tags). The "My Gang" section of the game does NOT count as being in a clan, those are NOT clan tags. 
+3. If it is obvious (obvious enough to dispute in Help Desk) that a group of people are together but don't have tags on (i.e. in the same vehicle, in the same area working together, etc. USE COMMON SENSE) then a declaration on one counts as many. If one person gets declared upon and suddenly 5 people around them run away, those 5 people are up to be shot (if you're not with them, don't follow them). Everyone attacking must declare individually if the attackers are without clan tags (read rule 2 above).
+4. Again, you must allow for a reasonable amount of time (5 seconds MINIMUM, allow extra time when necessary) for the other party to meet your demands.
+5. It is all players responsibility to do whatever they can to ensure that their demands and consequences and clearly communicated. Ensure your microphone/speakers work and pay attention to the cell phone messages.
+6. Rebel and gang wars are permitted and war may be declared between these groups, however each separate engagement should be started with a bare minimum of RP (as stated above).
+7. Players can declare their in game clan tag as a whole as explained above (everyone wearing that tag can be killed and they are allowed to kill whoever is declared upon, you can only declare for the clan tag you have on).
+8. Players that just have been revived cannot be taken hostage/robbed/told to shift F1/told to drop their gear, etc.
+9. You must have visuals of your target to initiate a declaration.
+10. Your group and/or clan may only do a town takeover on Kavala once per restart
+ 
+If you are dealing with RDM/VDM, DO NOT then return and kill that player for breaking server rules. You must immediately inform the admins and remove yourself from that situation until it has been dealt with.
+ 
+ 
+#2 Exploitations 
+The follow list is counted as an offence:
+
+1. Getting out of jail by glitching or re-logging.
+2. Suicide to get out of role-play situations.
+3. Duping items/money and/or receipt of duped money or items.
+4. Using any 3rd party program to gain an advantage.
+5. Using any game mechanic or glitch to gain an advantage. 
+6. The reeds in Arma 3 are bulletproof, this is not our decision, it's Bohemia's. If you are caught shooting from the reeds or hiding in the reeds during combat, you will be banned. You ARE allowed to run THROUGH the reeds as a "visual cover" but you can't stop once you are in the reeds, regardless of if it will give away your position. 
+
+
+#3 Communication Rules
+1. Do not use channels to play music or spam any noise on the chat. Do not speak in side chat, ever!
+2. Spamming in any of the game channels will result in your removal from the server. This includes but is not limited to audio and text chat.
+3. All Police - whitelisted or public slots must be on the TeamSpeak server in the correct TeamSpeak channels. 
+4. Every player using TeamSpeak must be in the correct channel to their server slot at all times to prevent meta-gaming.
+5. You cannot enter any TeamSpeak channel not directly applicable to your situation without consent of the occupants.
+6. If you abuse any Admin/Moderator/Player in anyway over TeamSpeak you will get a 2 min ban to cool the fuck down.
+ 
+
+#4 Compensation
+Compensation will be dealt with on a case to case basis.
+1. Compensation requests over 1 million must be posted on the 'Comp Request' section of the forums (here). Evidence is required!
+ 
+
+#5 Federal Reserve
+ 
+To rob the Federal Reserve safe, a minimum of 7 cops MUST be online.
+To rob the Casino, a minimum of 12 cops MUST be online.
+
+1. The Federal Reserve is illegal for all civilians to enter and cops can arrest you on the spot if caught. 
+2. Airspace around the Federal Reserve is restricted airspace.
+3. Role-play the situation. As the bank robbers initiate a negotiation if you have leverage (eg. hostages). PD can also initiate the role-play and make demands (especially if the robbers have inferior positions/forces and/or no leverage). 
+4. Any civilian who makes an attempt to block the Police from entering the Federal Reserve area will be arrested as an accomplice.
+5. If you're robbing the bank, and you have people outside the kos area, you must acknowledge the cops that you have people outside the KoS area and all cops will die, or you roleplay the situation letting them know you're around and not just running away.
+6. The same group cannot rob the federal reserve more then once every server reset. this applies to the military base and casino aswell
+ 
+#5.1 - Cop
+1. If the Federal Reserve is getting robbed, it's encouraged that all available Officers move in to stop it. Nearby Officers should immediately head to the Federal Reserve to assist. As this is a roleplay server, human lives remain a priority also. Hostage situations/uprisings are also of similar importance and it should be the highest ranking officer's responsibility to distribute tactical assets according to availability and common sense. Not EVERY cop needs to respond to the Federal Reserve.
+2. Kill on sight (KOS) is permitted only if Police Officers are fired upon. Lethal force on bank robbers may only be used if no other alternative is available. 
+
+ 
+#6 Illegal Items
+The following items are listed as illegal (marked as red on the map):
+
+Turtles
+Cocaine
+Heroin
+Marijuana
+Methamphetamine
+Blood Diamond's
+Weapons Grade Uranium
+Pornographic Material
+Gold Bars
+ 
+Disclaimer: Only items that come up as contraband when you search them are illegal.
+ 
+
+#7 Illegal Firearms
+1. The follow weapons are classed as illegal:
+
+MX SW 6.5 mm
+Katiba 6.5 mm
+MXC 6.5 mm
+MXM 6.5 mm
+SDAR 5.56 mm
+TRG-21 5.56 mm
+Mk18 ABR 7.62 mm
+Rahim 7.62 mm
+GM6 Lynx 12.7 mm
+Zafir 7.62 mm
+M320 LRR .408
+Mk200 6.5 mm
+4-Five .45
+Vermin SMG .45 ACP
+
+2. Possession of any of the weapons classed as illegal firearms is a jailable offence.
+3. Any illegal firearm seen by Police will be taken as a direct threat and force UP TO (but not including) lethal will be used to disarm unless fired upon. 
+4. If you are carrying a legal firearm Police have the right to search you for your license.
+ 
+
+#8 Illegal Vehicles
+The following vehicles are classed as illegal:
+
+1. Ifrit
+2. Offroad with mounted 50.Cal
+3. Speedboat (Minigun)
+4. Hunter
+5. Vehicles Purchase from Cartel Outposts
+ 
+
+#9 New Life Rule (NLR)
+The New Life Rule applies to the Police and all Civilians (including rebels and gangs).
+Events on this list may result in a players removal from the server based on the severity of the offence.
+
+1. When you die, your memory is erased. You don't hold onto the grudge and therefore can’t seek revenge.
+2. If you are killed you must wait 10 minutes before returning to the scene of your death(5km radius) and/or go into the same situation which you were just in. You are NOT to respawn within 5km of your death.
+3. If you die during role-play your past crimes are forgotten.
+4. If you are RDM'd / VDM'd by another player NLR does not count.
+5. If you manually respawn or purposely kill yourself, it's not a new life. (see Exploits)
+6. If there are 5 or less Police officers in-game, the new life rule is deemed invalid for only 1 respawn per player (Police only).
+7. NLR includes not spotting or watching the area.
+8. Switching factions acts as a permanent NLR, you can not return to a situation that you were previously in as the opposite faction.
+9. If you die from a glitch/hacker, it is not NLR but you MUST have sufficient evidence to prove this. (eg. video)
+ 
+
+#10 Outlaw Zones
+The following Zones are classed as Outlaw areas:
+
+1. Any illegal field
+2. Any illegal processor
+3. Any illegal dealer
+5. Cartel outposts
+
+
+Any civilian inside these areas is considered an Outlaw and the following actions can be taken:
+
+1. Civ vs Civ - RDM Rules still apply, Use Role Play where necessary.
+2. Civ vs Police - Civilians can kill any cop that enters the outlaw area following the Cartel RoE.
+ 
+Any one that clearly avoids or attempts to escape Police via any form of air travel to or from an outlaw area risks being forcefully brought down by Police. If you are being chased by Police in a helicopter or you spot Police on the ground near an outlaw area and attempt to flee this also applies.
+ 
+#10.1 - Cop
+
+1. Police vs Civ - Any Civilians in the area are considered outlaws and are to be tased, detained and searched. You can use lethal force if they engage you or anyone else according with your ROE. If the player(s) are found with drugs on them any vehicles they are using to move the drugs are to be impounded or destroyed.
+2. For Police to patrol any of these areas 4 officers present with 1 being of at least Sergeant rank.
+
+
+#11 Police Equipment 
+This section ONLY applies to Police and will apply to the access and usage of Police equipment.
+
+1. Police Officers aren't allowed to use any equipment which is not classed as Police equipment
+2. Police Officers aren't allowed to give any advanced equipment to lower ranking Police Officers.
+3. ALL Police Officers must carry at least 1 non-lethal weapon. This is mandatory.
+4. Police can only use Hunters/Ifrits when SWAT has been called, or 1 per Ifrit.
+5. For use of Ghosthawks look at the SCPD Rules of Engagement.
+
+
+#12 Police Interaction
+1. Civilians will be arrested for looking in Police or Civilian backpacks/vehicles without permission, second offence will result in a ban.
+2. Civilians can be arrested for following; trolling police, obstructing police, suspected spotting/reporting.
+
+4. Following or harassing Police for long periods of time will be considered griefing or spamming and can be punishable by jail, or ban.
+5. Open and shutting boom gates at Police HQ or checkpoints when Police are trying to enter/leave will be counted as griefing/trolling.
+6. Jumping in and out of Police Vehicles while restrained will lead to a 1 day ban.
+7. Avoiding a Police checkpoint of any kind gives police right to chase and search (4 Cops 2 vehicles with Cop lights ON minimun for a police checkpoint)
+Civilians or rebels (Including members of cartels) who take up arms to kill police in towns must declare the takeover every 5 mins when they are in the location.
+ 
+
+#13 Hostage Situations
+
+1. Hostage Situations can only take place if a Police Officer with rank of Sergeant or above is online.
+2. Sin City Police Department does not negotiate with Cartel gangs.
+3. Set ransom of 100,000 per civilian hostage. Police hostages have a ransom of 50,000 per rank.
+4. Ransoms can be wired or face to face transactions.
+5. Any hostage not released after payment will result in abductors getting a ban.
+6. Must only take a hostage if you have food/water supplies to keep the hostage alive.
+7. You must not kill a hostage within 5 mins of contacting the negotiators. 
+8. Hostages cannot be a known associate of hostage takers or agree to become a hostage.
+9. Hostages cannot receive any money.
+10. Once an agreement is reached hostage takers are given a grace period until they are out of sight.
+ 
+#14 Negotiators
+ 
+Please do not fuck with the negotiations, you will most likely be banned.
+ 
+1. In a situation where a negotiator would enhance role-play (eg. bank robbery, hostage situation) the Police and/or Civilians/Gangs/Rebels can declare that they are willing to send an unarmed negotiator to resolve the situation. This may only be refused in cases where the other party has no leverage (eg. no hostages, inferior forces/tactical assets/inferior positioning/situation)
+2. Once both parties agree to a negotiation BOTH parties must clearly state the names of their negotiator to the other party (preferably the group leader).
+3. If agreed upon by all parties involved, only one party may need to send in a negotiator.
+4. Once negotiator's names are known and a meet location has been arranged, once those players designated as negotiators and move to the designated meet point. Sin City PD members must remove their weapons (this includes weapons in backpacks).
+5. Negotiators in this unarmed state pose NO IMMINENT THREAT to anybody and if shot at/killed it will be considered as RDM and breaking role-play.
+6. Negotiators can then meet and begin negotiations.
+7. If a negotiator is accompanied by any player armed/unarmed that has not been agreed upon, then the negation process may be declared Void by the other party and the situation will remain as is prior to the attempted arrangement.
+8. Remember that as Police, unarmed players pose no imminent threat and should be dealt with by non-lethal means.
+9. An EMS Can be a Negotiators 
+
+
+#15 Random Deathmatching (RDM)
+The Random Deathmatching rule applies to the SCPD and all Civilians (including Cartel Members and gangs).
+Events on this list may result in a players removal from the server based on the severity of the offence.
+
+1. Killing anyone without a role-play cause. Excluding KoS Zones.
+2. If you are killed in the crossfire of a fight, it's not RDM.
+3. If you are killed in the crossfire while next to a Cartel or Gang member, it's not RDM.
+4. Killing someone in an attempt to protect yourself or others in your group isn't RDM.
+5. Shooting a player without giving reasonable time to follow demands is considered RDM (5 seconds MINIMUM over direct chat or in-game mic) Is acceptable.
+6. Asking a player to get out of a vehicle at gunpoint while advising you are not going to harm them, and then kill them when they jump out is RDM.
+7. Cartel areas designated by the following picture are the only areas that KoS can happen and is not considered RDM.
+8. You must not direct chat someone to declare if they are in a moving vehicle (including a spooling up helicopter), it is too hard for people to hear/prove. Send them a text message (this rule repeated in #19).
+
+w6z435.png
+
+
+#16 Safe Areas
+Bombing, camping, robbing, theft or killing in or around Garages and ATMs is punishable by a ban. These areas are shown by a Green Lined Circle.
+ 
+1. Storing Vehicles whilst being chased into these areas is punishable by a ban.
+2. You are not allowed to enter a safe zone whilst being chased (and/or declared upon), doing so may result in a ban.
+3. You are not allowed to take a hostage back to a safe zone.
+4. You are not allowed to steal vehicles in a safe zone.
+5. Safe-zones in KoS - You must be at least 1 km outside of the safe-zone before you can engage anyone (unless you chase them into that radius, then its game on).
+6. Airfield and Pyrgros Hospitals are safezones, for cops, civs and medics, and no one is allowed to shoot off or around them.
+ 
+ 
+#16.1 - Cop
+ 
+1. The only safe areas for PD is in the PD HQs, civilian safe areas do not mean that PD members are safe too.
+2. You are not allowed to shoot cops within 100m of a Police HQ unless a cop is engaging roleplay within that area. You can chase an officer to within close proximity, but must not camp. 
+3. You are not allowed to kill police as they leave the cop base (minimum 5 seconds before you can declare). 
+ 
+ 
+#17 Server Restarts
+You must 5 mins after server restart to do any criminal activity, including but not limited to;
+
+ - Murder
+ - Hostage taking
+ - Knocking people out
+ - Any Police duties or activities
+ - Grand Theft Auto (stealing vehicles)
+
+
+#18 Speed Limits
+The following speeds must be followed!
+
+Inside major cities
+Main roads: 60KM/H
+Small roads: 45 KM/H
+
+Outside major cities
+Main roads: 140 KM/H
+Small roads: 110 KM/H
+
+
+
+#19 Vehicles
+Events on this list will most likely result in a ban.
+ 
+RAMMING IS ONLY ALLOWED IF BOTH THE VEHICLES ARE EITHER STRIDERS IFRITS OR HUNTERS.
+
+1. Purposefully throwing yourself in front of vehicles in order to die/get hurt.
+2. Ramming into other vehicles in order to cause an explosion.
+3. Stealing a vehicle just to crash it or destroy it. 
+4. Shooting a vehicle with intent to cause it to explode. (armed vehicles, see note). If the vehicle is being used as cover, you are allowed to shoot at it as long as there will be no innocent bystanders   
+5. Purchasing excessive amounts of vehicles just to block roads, vehicle spawns, or any reason other than using it for what it is meant for.
+6. Airlifting any vehicles without occupants(WITH KEYS)/owners permission is prohibited.
+7. igiloading any vehicles without occupants(WITH KEYS)/owners permission is prohibited.
+8. You must not direct chat someone to declare if they are in a moving vehicle (including a spooling up helicopter), it is too hard for people to hear/prove. Send them a text message (this rule repeated in #15).
+9. If you wish to destroy someone's vehicle or chop shop it, make a demand and state the consequence as being that the vehicle will be destroyed. If not just abandon the vehicle don't grief someone's property without role-play. Max ransom is half the vehicles full (no donator prices) purchase price. Any vehicle over the purchase price of 2 mil can only be ransomed back for the maximum of 1 mil (you cannot chop/blow a vehicle within 5 minutes of offering ransom).
+10. You may nudge a police vehicles if it is being used to block any of the exits of the federal reserve
+ 
+#19.1 - Cop
+ 
+1. Police are allowed to perform a PIT maneuver to stop a vehicle IF IT IS GOING A REASONABLE SPEED (i.e. < 50KM/H).
+
+#19.2 Go Karts  Following rules apply with Go Karts
+
+1. All Go Kart Drivers must have a Safety Helmet, failure to do so can result in fines/impound from police.
+2. All Go Karts must not drive on main roads.
+3. All Go Karts must not drive at night.
+4. All Go Karts must comply with Sin City Racing safety Requirements.
+
+#19.3 Armored Vehicles
+
+1.Hunters and Ifrits may NOT ram or intentional collide with any vehicle that is not also a hunter or ifrit.
+This will be considered VDM and a bannable offense. Consider These two vehicles as being in a class of their own and may ram each other only.
+
+2.I Striders may be blown up if it has been seen within 400M of the Kavala Markets
+
+The only reason for Police or Civilians to shoot at a vehicle would be to disable it, spike stripes are to be used whenever possible. (Tires must be aimed at first)
+Police can only deliberately destroy hostile vehicles if Police have a valid reason, given warnings and have no other alternative but to destroy the vehicle.
+
+
+#20 Helicopters
+Events on this list may result in a players removal from the server based on the severity of the offence.
+
+1. Purposefully ramming a helicopter into anything
+2. Helicopters MAY NOT land on roads where an accident is likely to occur (i.e. towns, main roads)
+3. Police may temporarily restrict landing in some areas. Any landing in stated areas will be classed as a hostile action and lethal force is authorized for all police in the area. although police may not restrict the areas in which are listed below unless Martial law is called.
+4. Only Police are allowed to use the Police heli-pad unless permission and escort is given.
+
+5.Helicopters are only allowed to land at the Soccer field / Kavala Heli Dock (Athira/Kavala) and the basketball court (Pyrgos). Besides from the specified areas, you are NOT allowed to land within the city limits of Athira, Kavala, and Pyrgos. Not abiding by these rules will result in your arrest with fines or the impound of your helicopter.
+
+
+#21 Vehicle Deathmatching (VDM)
+The Vehicle Deathmatching rule applies to the SCPD and all Civilians (including rebels and gangs).
+Events on this list may result in a players removal from the server based on the severity of the offence.
+
+1. Killing anyone with a vehicle.
+2. If you are run over or get killed because you deliberately ran out on the road or failed to look both ways, it's not VDM (if you are deliberately getting yourself ran over, this will result in a kick or ban).
+3. Ramming any unarmoured vehicle using an armoured vehicle (Ifrit or Hunter) is classed as VDM.
+
+#22 Medics
+Read the 'Medic Brief' here.
+Breaking these rules will most likely result in a ban.
+ 
+1. Medics can not be killed or taken hostage.
+2. Medics must make every effort to revive as many people as possible (not just friends).
+3. Medics are not immune to police fines if not attending an emergency (If you speed and&nbsp;you're&nbsp;not on your way to an emergency police can issue you a fine.)
+4. Medics can not be robbed.
+5. Medic vehicles can not be stolen.
+6. Medics must run without clan tags and must have "MEDIC" or "EMS" in front of their name
+7. Medics can be shot and killed if they do not comply with someones request to leave the area or stop a revive after a reasonable amount of time.
+8. Any Medic who wants to start and RP event must get permission from an admin first and an admin message must be sent out before said event starts
+ 
+Medics MUST NOT revive whilst there are 2 or more groups in a combat situation. Medics must also NOT revive the losers of any battle. 
+
+#23 Housing
+1. Police can raid a players house if the player is on the wanted list.
+2. Police must have a Sergeant or above online to raid the premises.
+3. If followed into a location or town with multiple vehicles police can raid all houses in the area looking for the suspect.
+4. Cartel members can raid other players houses.
+5. Houses in cartel areas or within 1km from illegal areas can be raided by any police at anytime.
+
+#24 Jail
+1. The KoS area around the Jail is for Cops Vs Civs not Civs vs Civs.
+2. Glitching out of the jail using any method is not allowed and will most likely result in a ban.
+3. Killing civilians in jail that have been sent to jail and have a timer is against the rules regardless of the reason (cops can kill the prisoners and his/her accomplices if they attempt to escape).
+
+#25 Being restrained
+1. Jumping out of a vehicle while you are restrained is against the rules (all cop cars are equipped with child lock, you can only get out of the back if someone opens the door from the outside).
+2. If you are somehow glitched/unrestrained while you are in a cop car with other cops in the car you are not to jump out and try and kill/run from them.
+3. If you are unrestrained and given a chance to leave you are not to start shooting police the second you get unrestrained.
+4. You can not abuse the small timer whilst getting up from being tased to kill a police officer.
+ 
+#26 General (Common sense for people who aren't idiots)
+1. Spamming Chemlights/Smoke grenades to attempt to lag everyone in the area
+2. Mic spamming/being a fuckwit around safezones (Mainly Kavala Market)
+ 
+#26 Martial Law
+1. If you were not involved in the declaration of Martial law you must state that you are entering the town and your intentions
+2. Martial law is for Cops vs Civs not Civs vs Civs
+ 
+Update Log:
+Updated 07/08/14 - ShadE - General rule update as per admin meeting
+Updated 12/07/14 - ShadE - Re added the VDM rule that someone removed, added new safe zone rule.
+Updated 27/06/14 - Viles - Fixed some shit (Added Go Kart Rules)
+Updated 23/06/14 - Soloman - Added medic rules
+Updated 21/05/14 - Galahad
+Updated 12/07/14 - T0M - Fixed the VDM rule
+Updated 08/07/14 - Added ifrit in kavala rule 19.1, 2.
+Updated 08/07/14 - Added Rule 6. In "Fed Reserve"
+Updated 16/08/14 - Added Police Hatchback in Rule 19.
+Updated 19/08/14 - Added #24 and #25 Rules
+Updated 19/10/14 - Fixed Some Rules - Added Rule 26 - Bertie
+Updated 07/11/14 - Eh
+Updated 17/11/14 - Eh #2
+Updated 07/12/14 - Changed safe zones rule
+Updated 03/01/15 - Changed Medic Rules
+Updated 26/01/15 - Added #19 7. Igiload line - Gromp
+Updated 01/02/15 - Added #20 Helicopters 5. Kavala heli dock / Removed Hospital landing for civilians - Vitale
+Updated 08/02/15 - Changed coplimit for fed from 5 to 7, Added gold bar to illegal items - Gromp
