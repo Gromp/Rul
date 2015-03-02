@@ -111,11 +111,12 @@ To rob the Casino, a minimum of 12 cops MUST be online.
 4. Any civilian who makes an attempt to block the Police from entering the Federal Reserve area will be arrested as an accomplice.
 5. If you're robbing the bank, and you have people outside the kos area, you must acknowledge the cops that you have people outside the KoS area and all cops will die, or you roleplay the situation letting them know you're around and not just running away.
 6. The same group cannot rob the federal reserve more then once every server reset. this applies to the military base and casino aswell
+7. Once Police gain control of the Federal Reserve they are allowed to fix the vault/doors
  
 #5.1 - Cop
 1. If the Federal Reserve is getting robbed, it's encouraged that all available Officers move in to stop it. Nearby Officers should immediately head to the Federal Reserve to assist. As this is a roleplay server, human lives remain a priority also. Hostage situations/uprisings are also of similar importance and it should be the highest ranking officer's responsibility to distribute tactical assets according to availability and common sense. Not EVERY cop needs to respond to the Federal Reserve.
 2. Kill on sight (KOS) is permitted only if Police Officers are fired upon. Lethal force on bank robbers may only be used if no other alternative is available. 
-
+3. Once Police gain control of the Federal Reserve they are allowed to fix the vault/doors
  
 #6 Illegal Items
 The following items are listed as illegal (marked as red on the map):
@@ -222,7 +223,8 @@ This section ONLY applies to Police and will apply to the access and usage of Po
 6. Jumping in and out of Police Vehicles while restrained will lead to a 1 day ban.
 7. Avoiding a Police checkpoint of any kind gives police right to chase and search (4 Cops 2 vehicles with Cop lights ON minimun for a police checkpoint)
 Civilians or rebels (Including members of cartels) who take up arms to kill police in towns must declare the takeover every 5 mins when they are in the location.
- 
+8. Once Police gain control of the Federal Reserve they are allowed to fix the vault/doors
+9. Police may search/impound vehicles when the current situation is over.(Repeated in RULE #19)
 
 #13 Hostage Situations
 
@@ -236,6 +238,7 @@ Civilians or rebels (Including members of cartels) who take up arms to kill poli
 8. Hostages cannot be a known associate of hostage takers or agree to become a hostage.
 9. Hostages cannot receive any money.
 10. Once an agreement is reached hostage takers are given a grace period until they are out of sight.
+ 
  
 #14 Negotiators
  
@@ -277,6 +280,7 @@ Bombing, camping, robbing, theft or killing in or around Garages and ATMs is pun
 4. You are not allowed to steal vehicles in a safe zone.
 5. Safe-zones in KoS - You must be at least 1 km outside of the safe-zone before you can engage anyone (unless you chase them into that radius, then its game on).
 6. Airfield and Pyrgros Hospitals are safezones, for cops, civs and medics, and no one is allowed to shoot off or around them.
+7. Things like the Kavala Garage that are safe areas for the civilians are NOT safe areas for the police force as they have no reason to be there unless to detain a civilian or believe there's a rebel in said area.
  
  
 #16.1 - Cop
@@ -323,7 +327,8 @@ RAMMING IS ONLY ALLOWED IF BOTH THE VEHICLES ARE EITHER STRIDERS IFRITS OR HUNTE
 7. igiloading any vehicles without occupants(WITH KEYS)/owners permission is prohibited.
 8. You must not direct chat someone to declare if they are in a moving vehicle (including a spooling up helicopter), it is too hard for people to hear/prove. Send them a text message (this rule repeated in #15).
 9. If you wish to destroy someone's vehicle or chop shop it, make a demand and state the consequence as being that the vehicle will be destroyed. If not just abandon the vehicle don't grief someone's property without role-play. Max ransom is half the vehicles full (no donator prices) purchase price. Any vehicle over the purchase price of 2 mil can only be ransomed back for the maximum of 1 mil (you cannot chop/blow a vehicle within 5 minutes of offering ransom).
-10. You may nudge a police vehicles if it is being used to block any of the exits of the federal reserve
+10. Police may search/impound vehicles when the current situation is over.(Repeated in RULE #12) 
+11. You may nudge a police vehicles if it is being used to block any of the exits of the federal reserve
  
 #19.1 - Cop
  
