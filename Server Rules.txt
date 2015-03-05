@@ -229,15 +229,14 @@ Civilians or rebels (Including members of cartels) who take up arms to kill poli
 #13 Hostage Situations
 
 1. Hostage Situations can only take place if a Police Officer with rank of Sergeant or above is online.
-2. Sin City Police Department does not negotiate with Cartel gangs.
-3. Set ransom of 100,000 per civilian hostage. Police hostages have a ransom of 50,000 per rank.
-4. Ransoms can be wired or face to face transactions.
-5. Any hostage not released after payment will result in abductors getting a ban.
-6. Must only take a hostage if you have food/water supplies to keep the hostage alive.
-7. You must not kill a hostage within 5 mins of contacting the negotiators. 
-8. Hostages cannot be a known associate of hostage takers or agree to become a hostage.
-9. Hostages cannot receive any money.
-10. Once an agreement is reached hostage takers are given a grace period until they are out of sight.
+2. Set ransom of 100,000 per civilian hostage. Police hostages have a ransom of 50,000 per rank.
+3. Ransoms can be wired or face to face transactions.
+4. Any hostage not released after payment will result in abductors getting a ban.
+5. Must only take a hostage if you have food/water supplies to keep the hostage alive.
+6. You must not kill a hostage within 5 mins of contacting the negotiators. 
+7. Hostages cannot be a known associate of hostage takers or agree to become a hostage.
+8. Hostages cannot receive any money.
+9. Once an agreement is reached hostage takers are given a grace period until they are out of sight.
  
  
 #14 Negotiators
