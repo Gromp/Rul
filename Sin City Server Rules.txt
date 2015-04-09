@@ -41,6 +41,8 @@ Meta-gaming (the act of using outside or previously gained knowledge within a ga
 Racism
 Trolling
 Using anyone as a meat-shield
+Any form of Denial of Service attacks against any of our players and our server/any other servers
+The use of any extremist groups on TS or the server(whether declerations, tags or anything else) will result in immediate removal from the server and possible ban
 Acronyms 
 KoS  = Kill on Sight
 NLR  = New Life Rule
@@ -71,6 +73,7 @@ Clearly state consequences for not complying with your demands (eg will shoot a 
 8. Players that just have been revived cannot be taken hostage/robbed/told to shift F1/told to drop their gear, etc.
 9. You must have visuals of your target to initiate a declaration.
 10. Your group and/or clan may only do a town takeover on Kavala once per restart
+11. Declaration last for 5 minutes after last viewing the declared upon party. If over 5 min have past and you find the group you were previously declared upon you must re-declare(This does not include rebels taking over a town see section 12)
  
 If you are dealing with RDM/VDM, DO NOT then return and kill that player for breaking server rules. You must immediately inform the admins and remove yourself from that situation until it has been dealt with.
  
@@ -92,7 +95,6 @@ The follow list is counted as an offence:
 3. All Police - whitelisted or public slots must be on the TeamSpeak server in the correct TeamSpeak channels. 
 4. Every player using TeamSpeak must be in the correct channel to their server slot at all times to prevent meta-gaming.
 5. You cannot enter any TeamSpeak channel not directly applicable to your situation without consent of the occupants.
-6. If you abuse any Admin/Moderator/Player in anyway over TeamSpeak you will get a 2 min ban to cool the fuck down.
  
 
 #4 Compensation
@@ -180,6 +182,7 @@ Events on this list may result in a players removal from the server based on the
 7. NLR includes not spotting or watching the area.
 8. Switching factions acts as a permanent NLR, you can not return to a situation that you were previously in as the opposite faction.
 9. If you die from a glitch/hacker, it is not NLR but you MUST have sufficient evidence to prove this. (eg. video)
+10. When a person dies and respawns on a new life any parties associated with the individuals death are to forget of their involvement or any grudges held against the individual
  
 
 #10 Outlaw Zones
@@ -188,6 +191,7 @@ The following Zones are classed as Outlaw areas:
 1. Any illegal field
 2. Any illegal processor
 3. Any illegal dealer
+4. Captured Gang hideouts
 5. Cartel outposts
 
 
@@ -237,6 +241,7 @@ Civilians or rebels (Including members of cartels) who take up arms to kill poli
 7. Hostages cannot be a known associate of hostage takers or agree to become a hostage.
 8. Hostages cannot receive any money.
 9. Once an agreement is reached hostage takers are given a grace period until they are out of sight.
+ 
  
  
 #14 Negotiators
@@ -342,10 +347,10 @@ RAMMING IS ONLY ALLOWED IF BOTH THE VEHICLES ARE EITHER STRIDERS IFRITS OR HUNTE
 
 #19.3 Armored Vehicles
 
-1.Hunters and Ifrits may NOT ram or intentional collide with any vehicle that is not also a hunter or ifrit.
+1. Hunters and Ifrits may NOT ram or intentional collide with any vehicle that is not also a hunter or ifrit.
 This will be considered VDM and a bannable offense. Consider These two vehicles as being in a class of their own and may ram each other only.
 
-2.I Striders may be blown up if it has been seen within 400M of the Kavala Markets
+2. Ifirits and Striders may be blown up if it has been seen within 400M of the Kavala Markets
 
 The only reason for Police or Civilians to shoot at a vehicle would be to disable it, spike stripes are to be used whenever possible. (Tires must be aimed at first)
 Police can only deliberately destroy hostile vehicles if Police have a valid reason, given warnings and have no other alternative but to destroy the vehicle.
@@ -423,6 +428,7 @@ Anyone who is killed during martial law is not to return to the town until marti
 Civilians can go to the garage and pull vehicles or helicopters out to leave the area within the 2 minute period given
  
 Update Log:
+Updated 30/03/15 - Dr. Zeus (Cox Request) - Update Striders to be blown up
 Updated 07/08/14 - ShadE - General rule update as per admin meeting
 Updated 12/07/14 - ShadE - Re added the VDM rule that someone removed, added new safe zone rule.
 Updated 27/06/14 - Viles - Fixed some shit (Added Go Kart Rules)

@@ -23,6 +23,9 @@ S.W.A.T Weapons;
 GM6 Lynx 12.7 mm
 M320 LRR .408
 Mk200 6.5 mm
+S.W.A.T Clothing
+V_PlateCarrierSpec_blk
+ 
 S.W.A.T Weapon Restrictions;
 Only S.W.A.T trained snipers can use GM6 Lynx 12.7 mm / M320 LRR .408
 Only Sergeants and above can use Mk200 6.5 mm
